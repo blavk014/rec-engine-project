@@ -1,0 +1,9 @@
+user_id,product_id,product_name,category,price,rating
+1,101,Sneakers,Fashion,25000,4.5
+1,102,Headphones,Electronics,18000,4.2
+2,103,Smartwatch,Electronics,35000,4.8
+2,104,Jacket,Fashion,27000,4.1
+3,105,Novel,Books,7000,4.3
+3,106,Powerbank,Electronics,12000,4.4
+4,107,Backpack,Fashion,15000,4.0
+4,108,Laptop Stand,Accessories,9000,4.6

@@ -1,0 +1,15 @@
+user_id,product_id,category,product_name,genre,views,ratings
+1,401,Music,Fate of OPhelia,RnB,1000000,7.8
+1,407,Music,F.R.I.E.N.D.S,Soul,2300000,8.9
+3,512,Movies,Wednesday,Fiction,40000000,7.5
+7,514,Movies,Ghoul,Horror,100000,5.5
+2,420,Music,Golden Hour,Pop,7500000,9.1
+4,521,Movies,The Silent Sea,Sci-Fi,1200000,8.0
+5,423,Music,Blinding Lights,Pop,35000000,9.5
+6,531,Movies,Extraction,Action,18000000,8.3
+8,425,Music,No Stress,Afrobeats,500000,7.0
+9,535,Movies,Parasite,Thriller,90000000,9.0
+
+
+
+
